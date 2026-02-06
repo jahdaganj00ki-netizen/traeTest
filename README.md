@@ -2,35 +2,6 @@
 
 A repository configured for immediate use with TRAE IDE, including AI coding rules and MCP protocol support.
 
-## 📥 Jetzt Herunterladen / Download Now
-
-**Laden Sie dieses Repository jetzt herunter und nutzen Sie es sofort mit TRAE IDE!**  
-**Download this repository now and use it immediately with TRAE IDE!**
-
-### Download-Optionen / Download Options
-
-#### 🔹 Option 1: Git Clone (Empfohlen / Recommended)
-```bash
-git clone https://github.com/jahdaganj00ki-netizen/traeTest.git
-cd traeTest
-```
-
-#### 🔹 Option 2: ZIP-Download
-[📦 **Download ZIP**](https://github.com/jahdaganj00ki-netizen/traeTest/archive/refs/heads/copilot/create-new-repo-for-trae-ide.zip) - Direkter ZIP-Download / Direct ZIP download
-
-#### 🔹 Option 3: GitHub Desktop
-[💻 **Mit GitHub Desktop öffnen**](x-github-client://openRepo/https://github.com/jahdaganj00ki-netizen/traeTest) - Klicken Sie hier, um das Repository in GitHub Desktop zu öffnen
-
-#### 🔹 Option 4: In TRAE IDE klonen / Clone in TRAE IDE
-1. TRAE IDE öffnen / Open TRAE IDE
-2. Source Control Panel (`Ctrl+Shift+G`)
-3. "Clone Repository" klicken / Click "Clone Repository"
-4. URL eingeben / Enter URL: `https://github.com/jahdaganj00ki-netizen/traeTest.git`
-
-📘 **[Vollständige Download-Anleitung auf Deutsch / Complete Download Guide in German](DOWNLOAD.md)**
-
----
-
 ## 🚀 Quick Start with TRAE IDE
 
 ### 1. Clone this Repository in TRAE IDE
@@ -141,7 +112,6 @@ All changes are automatically tracked and can be committed/pushed through TRAE I
 
 ## 📚 Additional Resources
 
-- [📥 Download Guide (German/Deutsch)](DOWNLOAD.md) - Vollständige Download-Anleitung
 - [🔧 TRAE Setup Guide](TRAE_SETUP.md) - Detailed setup instructions
 - [TRAE IDE Documentation](https://docs.trae.ai/ide/)
 - [TRAE Source Control Guide](https://traeide.com/docs/how-to-use-trae-source-control)
