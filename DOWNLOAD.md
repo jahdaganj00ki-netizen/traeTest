@@ -1,6 +1,6 @@
 # Download-Anleitung / Download Guide
 
-## 📥 Downloade Sie jetzt!
+## 📥 Jetzt herunterladen!
 
 Dieses Repository ist für die sofortige Verwendung mit TRAE IDE konfiguriert. Wählen Sie Ihre bevorzugte Download-Methode:
 
@@ -85,14 +85,14 @@ Nach dem Download finden Sie:
 ```
 traeTest/
 ├── .trae/
-│   ├── rules/project_rules.md  # AI-Codierungsregeln
-│   └── mcp.json                # MCP-Konfiguration
+│   ├── rules/project_rules.md # AI-Codierungsregeln
+│   └── mcp.json # MCP-Konfiguration
 ├── examples/
-│   ├── python/hello.py         # Python-Beispiel
-│   └── javascript/hello.js     # JavaScript-Beispiel
-├── README.md                   # Hauptdokumentation
-├── TRAE_SETUP.md              # Detaillierte Einrichtungsanleitung
-└── DOWNLOAD.md                # Diese Datei
+│   ├── python/hello.py # Python-Beispiel
+│   └── javascript/hello.js # JavaScript-Beispiel
+├── README.md # Hauptdokumentation
+├── TRAE_SETUP.md # Detaillierte Einrichtungsanleitung
+└── DOWNLOAD.md # Diese Datei
 ```
 
 ## Systemanforderungen
