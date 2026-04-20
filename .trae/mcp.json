@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "example-mcp-server": {
+      "description": "Example MCP server configuration - customize as needed",
+      "command": "python3",
+      "args": ["-m", "your_mcp_module"],
+      "env": {
+        "API_KEY": "your-api-key-here"
+      },
+      "disabled": true
+    }
+  },
+  "configuration": {
+    "notes": "Add your MCP server configurations here. Each server can be a local process or remote endpoint.",
+    "documentation": "See https://docs.trae.ai/ide/model-context-protocol for more information"
+  }
+}
